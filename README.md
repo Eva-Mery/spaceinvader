@@ -32,7 +32,7 @@ Aucune
 
 ### Difficultés rencontrées
 
-Aucune
+J'ai téléchargé le .zip de Source Code Word Cloud Generator, cependant, lorsque je lance l'exécutable, le programme ne répond pas.
 
 ### Remarques diverses
 Pour pouvoir mettre en place les tests, il a été nécessaire d’ajouter une fonctionnalité supplémentaire qui permet de représenter l’espace de jeu dans une chaîne ASCII.
