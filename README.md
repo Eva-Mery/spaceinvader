@@ -38,6 +38,37 @@ J'ai téléchargé le .zip de Source Code Word Cloud Generator, cependant, lorsq
 Pour pouvoir mettre en place les tests, il a été nécessaire d’ajouter une fonctionnalité supplémentaire qui permet de représenter l’espace de jeu dans une chaîne ASCII.
 
 
+## Semaine n°2 : du 5 au 17 mai
+
+### Sprints et fonctionnalités réalisées
+
+**Fonctionnalité n°1 : Déplacer un vaisseau dans l'espace de jeu (fini)**
+- Story n°3 : Déplacer le vaisseau vers la droite dans l'espace de jeu
+1. Le vaisseau se déplace d'un pas vers la droite 
+2. Si le vaisseau se trouve sur la bordure droite de l'espace de jeu, le vaisseau doit rester immobile (aucun déplacement, aucune exception levée : le vaisseau reste juste à sa position actuelle).
+
+- Story n°4 : Déplacer le vaisseau vers la gauche dans l'espace de jeu
+1. Le vaisseau se déplace d'un pas vers la gauche 
+2. Si le vaisseau se trouve sur la bordure gauche de l'espace de jeu, le vaisseau doit rester immobile (aucun déplacement, aucune exception levée : le vaisseau reste juste à sa position actuelle).
+
+### Fonctionnalité en cours d’implémentation 
+**Fonctionnalité n°2 : Déplacer un vaisseau dans l'espace de jeu (commencé)**
+A faire la prochaine fois : Refactoring sur la classe Vaisseau 
+
+### Diagramme de classes
+
+![seance1](https://user-images.githubusercontent.com/75761047/117060332-143cff80-ad21-11eb-8d45-bfafbe28df01.gif)
+
+### Nuage de mots du projet spaceinvaders (séance n°2)
+
+
+
+### Difficultés rencontrées
+Aucune
+
+### Remarques diverses
+Aucune
+
 
 ## Glossaire
 **Vaisseau :** véhicule commandé par le joueur, pouvant se déplacer de droite à gauche et ayant la possibilité de lancer des missiles destinés à détruire le(s) envahisseurs.
