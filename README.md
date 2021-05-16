@@ -57,11 +57,11 @@ A faire la prochaine fois : Refactoring sur la classe Vaisseau
 
 ### Diagramme de classes
 
-![seance1](https://user-images.githubusercontent.com/75761047/117060332-143cff80-ad21-11eb-8d45-bfafbe28df01.gif)
+![seance2](https://user-images.githubusercontent.com/75761047/118392759-7e1baa00-b63b-11eb-8fd5-2033bd1a4472.gif)
 
 ### Nuage de mots du projet spaceinvaders (séance n°2)
 
-
+![Nuage seance2](https://user-images.githubusercontent.com/75761047/118392754-73611500-b63b-11eb-82fe-9663c5d02f04.png)
 
 ### Difficultés rencontrées
 Aucune
