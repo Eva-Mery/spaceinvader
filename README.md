@@ -69,6 +69,30 @@ Aucune
 ### Remarques diverses
 Aucune
 
+## Semaine n°2 : du 5 au 17 mai
+
+### Sprints et fonctionnalités réalisées
+**Fonctionnalité n°2 : Déplacer un vaisseau dans l'espace de jeu (commencé)**
+// A compléter
+
+
+### Fonctionnalité en cours d’implémentation 
+**Fonctionnalité n°2 : Déplacer un vaisseau dans l'espace de jeu (commencé)**
+A faire la prochaine fois : Refactoring sur la classe Vaisseau 
+
+### Diagramme de classes
+
+
+
+### Nuage de mots du projet spaceinvaders (séance n°2)
+
+
+### Difficultés rencontrées
+Aucune
+
+### Remarques diverses
+Aucune
+
 
 ## Glossaire
 **Vaisseau :** véhicule commandé par le joueur, pouvant se déplacer de droite à gauche et ayant la possibilité de lancer des missiles destinés à détruire le(s) envahisseurs.
