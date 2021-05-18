@@ -29,7 +29,6 @@ Aucune
 ### Nuage de mots du projet spaceinvaders (séance n°1)
 
 
-
 ### Difficultés rencontrées
 
 J'ai téléchargé le .zip de Source Code Word Cloud Generator, cependant, lorsque je lance l'exécutable, le programme ne répond pas.
@@ -69,26 +68,38 @@ Aucune
 ### Remarques diverses
 Aucune
 
-## Semaine n°2 : du 5 au 17 mai
+
+## Semaine n°3 : du 17 au ? mai
 
 ### Sprints et fonctionnalités réalisées
 **Fonctionnalité n°2 : Déplacer un vaisseau dans l'espace de jeu (commencé)**
-// A compléter
-
+- Étape n°1 : Positionner un nouveau vaisseau avec une dimension donnée.
+1. Refactoring sur la classe Vaisseau.
+- Étape n°2 : Faire en sorte qu'il soit impossible de positionner un nouveau vaisseau qui déborde de l'espace de jeu.
+- Étape n°3 : Déplacer un vaisseau vers la droite en tenant compte de sa dimension.
+- Étape n°4 : Déplacer un vaisseau vers la gauche en tenant compte de sa dimension.
+- Zoom sur le Refactoring de la classe de test SpaceInvadersTest.
+1. Mise en place du refatoring dans une méthode de test
+2. Généralisation de ce refatoring à toutes les méthodes de test (en pas à pas)
+3. Suppression de la surcharge pour ne conserver que la méthode positionnerUnNouveauVaisseau(Dimension dimension, Position position)
+4. Quelques mots sur le code smell Primitive Obsession et le refactoring Introduce Parameter Object
 
 ### Fonctionnalité en cours d’implémentation 
 **Fonctionnalité n°2 : Déplacer un vaisseau dans l'espace de jeu (commencé)**
-A faire la prochaine fois : Refactoring sur la classe Vaisseau 
+A faire la prochaine fois : Refactorer la classe Vaisseau 
 
 ### Diagramme de classes
 
+![seance3](https://user-images.githubusercontent.com/75761047/118621672-e1861300-b7c6-11eb-86ba-bbd3d985376b.gif)
 
+### Nuage de mots du projet spaceinvaders (séance n°3)
 
-### Nuage de mots du projet spaceinvaders (séance n°2)
+![image](https://user-images.githubusercontent.com/75761047/118623416-83f2c600-b7c8-11eb-94f0-630b42e15f75.png)
 
+![image](https://user-images.githubusercontent.com/75761047/118623595-b13f7400-b7c8-11eb-8027-5489c8b05fbc.png)
 
 ### Difficultés rencontrées
-Aucune
+Je n'ai encore une fois pas réussi à ouvrir le logiciel pour créer le nuage de mots, qui pourtant avait fonctionné lors de la scéance précédente lorsque j'étais à l'IUT.
 
 ### Remarques diverses
 Aucune
